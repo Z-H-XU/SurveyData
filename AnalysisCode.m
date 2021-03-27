@@ -1,5 +1,5 @@
 
-% Project title:  The potential factors of student plagiarism in universities
+% Project title:  The potential factors of digital plagiarism in universities
 
 
 clc;clear;
